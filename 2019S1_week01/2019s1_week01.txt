@@ -1,0 +1,108 @@
+[img]http://www.shunurecords.com/files/iracing/fr35-2019s1/week1.jpg[/img]
+[size=9](Infographics by Matteo CoppolaNeri)[/size]
+
+[size=16][b][color=darkblue]Welcome to the iRacing Formula Renault 3.5 Championship series![/color][/b][/size]
+
+==========================================================================================
+
+[size=18][b][color=orange]Weekly details[/b][/color][/size]
+
+[size=16][color=darkred][b]Track:[/b][/color] Circuit Zolder
+[color=darkblue][b]Layout:[/b][/color] Alternate ([color=red]bypassing final chicane[/color])
+[color=darkred][b]Week:[/b][/color] 1
+[color=darkblue][b]Date:[/b][/color] 11th of December through 17th of December
+[color=darkred][b]Broadcast:[/b][/color] Friday 14th @ 20:00 GMT
+[color=darkblue][b]License:[/b][/color] Class C (4.0) --> Pro/WC (4.0)
+[color=darkred][b]Race:[/b][/color] Races every 2 hours on the hour
+[color=darkblue][b]Laps:[/b][/color] 25 
+[color=darkred][b]Weather:[/b][/color] Dynamic - Afternoon
+[color=darkblue][b]Starts:[/b][/color] Standing
+[color=darkred][b]Downforce package:[/b][/color] High
+[color=darkblue][b]Fuel usage:[/b][/color] ~2 liters / 0.5 gallons per lap (please correct me if wrong!)
+[color=darkred][b]Race fuel:[/b][/color] ~50-55 liters / 13.5 gallons (please correct me if wrong!)
+[color=darkblue][b]Qualifying:[/b][/color] Single Qualifying Session attached to the race (2 laps / 8 minutes) 
+[color=darkred][b]Pit stop required:[/b][/color] No[/size]
+
+[url=https://www.circuit-zolder.be/en][img]https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zolder.svg/1200px-Zolder.svg.png[/img][/url]
+
+==========================================================================================
+
+[size=18][b][color=orange]Statistics[/color][/b][/size]
+
+[url=http://irleagues.com/fr35/standings][img]http://irleagues.com/fr35/img/2019s1/1/weekstats.png[/img][/url]
+[img]http://irleagues.com/fr35/img/2019s1/champ30.png[/img][size=9]
+(Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
+
+==========================================================================================
+
+[size=18][b][color=orange]Track guide / hotlap[/color][/b][/size]
+
+[size=14][b]1:10.219 - Rocco Horvath[/b][/size]
+[youtube]https://www.youtube.com/watch?v=Wk4u9z7x92c[/youtube][/quote]
+
+==========================================================================================
+
+[url=https://virtualracingschool.com][img]https://virtualracingschool.com/downloads/vrs-iracing-forum.png[/img][/url]
+[size=18][b][color=orange]Virtual Racing School - Formula Renault 3.5[/color][/b][/size]
+
+[size=14][color=darkblue]Virtual Racing School (VRS) offers a Premium Datapack to paid subscribers:[/color][/size]
+[size=16][b][url=https://virtualracingschool.appspot.com/#/DataPacks/46110001]iRacing Formula 3.5 Championship (2019 Season 1)[/url][/b][/size]
+[size=14][color=darkblue]Contains setup, blap/olap, replay and telemetry done by [b]Martin Krönke[/b],
+In-depth video tutorials by [b]Julian Dunne[/b].[/color][/size]
+
+[size=14][b][color=darkred]Week 01 - Circuit Zolder - Alternate:[/color][/b]
+ - Fastest Laptime: [b]1:09.793[/b]
+ - Afternoon - 27.22 °C track temp
+ - Track state - moderate usage
+ - All files and videos can be found [url=https://virtualracingschool.appspot.com/#/DataPacks/46110001/1544144565][b]here[/b][/url].[/size]
+
+==========================================================================================
+
+[size=18][b][color=orange]Laptimes[/color][/b][/size] (rough estimates @ 27°C track temp)
+
+[size=14][list][b]99.5%:[/b] [b][color=green] 1:09.444 (alien)[/color][/b][/list]
+[list][b]100%:[/b] [b][color=olive] 1:09.793 (very fast)[/color][/b][/list]
+[list][b]101%:[/b] [b][color=darkblue] 1:10.491 (fast)[/color][/b][/list]
+[list][b]102%:[/b] [b][color=blue] 1:11.189 (good)[/color][/b][/list]
+[list][b]103%:[/b] [b][color=yellow] 1:11.887 (decent)[/color][/b][/list]
+[list][b]104%:[/b] [b][color=orange] 1:12.585 (decent)[/color][/b][/list]
+[list][b]105%:[/b] [b][color=brown] 1:13.283 (all right)[/color][/b][/list]
+[list][b]106%:[/b] [b][color=darkred] 1:13.981 (all right)[/color][/b][/list]
+[list][b]107%:[/b] [b][color=darkred] 1:14.679 (all right)[/color][/b][/list]
+[list][b]108%:[/b] [b][color=red] 1:15.376 (more practice advised)[/color][/b][/list][/size]
+
+==========================================================================================
+
+[size=18][b][color=orange]Broadcasts[/color][/b][/size]
+
+We've been selected by popular vote for the RaceSpot.TV Primetime broadcasts, the whole season 1 will be covered:
+[url]https://twitter.com/RaceSpotTV/status/1072871099619135488[/url] :)
+[url=http://racespot.tv/][img]http://racespot.tv/images/Rs_Primtetime_Logo_v3.png[/img][/url]
+[size=16][color=darkblue]Every [b]Friday Night @ 20:00 GMT[/b] on [b][url]https://www.youtube.com/iracingesportsnetwork[/url][/b][/color][/size]
+
+[youtube]https://www.youtube.com/watch?v=EMjunWfEaIw[/youtube]
+
+==========================================================================================
+
+[size=18][b][color=orange]Car info & useful links[/color][/b][/size]
+
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625658.page]Community Baseline Setups[/url][/b][/size]
+Good baseline setups by the community![/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/downloadAttach/2460615.page]Setup Cheat Sheet[/url][/b][/size][/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625453.page]How does DRS work in this car?[/url][/b][/size]
+This car has DRS, you can use it during races and qualifying[/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625868.page]Clutch Plates, Diff Preload, Ramp Angles?[/url][/b][/size]
+Differential locking explained, one of the most important settings to get the car feel right for you![/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625576.page]Use Launch Control during race starts[/url][/b][/size]
+It greatly helps to keep the car under control!
+Can be found under [b]Controls -> In-Car Systems -> Traction Control Arm[/b]
+[img]https://i.imgur.com/qSRiydO.jpg[/img][/list]
+
+==========================================================================================
+
+[size=18][b][color=orange]Schedule[/color][/b][/size]
+
+See infographics at the top for the 2019 season 1 schedule.
+Also available as a PDF: [b][url=http://members.iracing.com/jforum/posts/downloadAttach/2521818.page]iRacing Schedule[/url][/b]
+
+==========================================================================================

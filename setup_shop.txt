@@ -1,0 +1,84 @@
+[size=20][b][color=darkblue]Welcome to the iRacing Formula Renault 3.5 setup shop![/color][/b][/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/setups_text.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[size=18][b][color=orange]Baseline[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533230.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=19&lic=0153db&colors=111111,fc0706,FFD93D[/img] [b]Matteo Coppola Neri[/b] - 2019 S2 - Baseline[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533593.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - Baseline[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533594.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - HDF / High Downforce[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533595.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - MDF / Medium Downforce[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533596.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - LDF / Low Downforce[/url][/list]
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[size=18][b][color=orange]Barber[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523356.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523354.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1 - (A set, faster)[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523080.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1 - (B set, safer)[/url][/list]
+
+[size=18][b][color=orange]Barcelona - Circuit de Catalunya[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2545929.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S4[/url][/list]
+
+[size=18][b][color=orange]Brands Hatch[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2541083.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=19&lic=0153db&colors=111111,fc0706,FFD93D[/img] [b]Matteo Coppola Neri[/b] - 2019 S3[/url][/list]
+
+[size=18][b][color=orange]COTA - Circuit of the Americas[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2530853.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]Donington[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2525164.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2524849.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Imola - Autodromo Internazionale Enzo e Dino Ferrari[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2534106.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=63&lic=00c702&colors=000000,ff0035,ffffff[/img] [b]Ryan Williams3[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2527053.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Interlagos - Autódromo José Carlos Pace[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2550873.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=000000,1fe600,F0F000[/img] [b]Fabian Siegmann[/b] - 2019 S4 - Quali[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2541942.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=000000,1fe600,F0F000[/img] [b]Fabian Siegmann[/b] - 2019 S3 - Quali[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2541941.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=000000,1fe600,F0F000[/img] [b]Fabian Siegmann[/b] - 2019 S3 - Race[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2542128.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=F1FA0A,0948FB,000000[/img] [b]Jorge Montañés[/b] - 2019 S3 - Q[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2542127.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=F1FA0A,0948FB,000000[/img] [b]Jorge Montañés[/b] - 2019 S3 - 36C[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2526068.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Laguna Seca - WeatherTech Raceway[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2531401.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - (A set, faster)[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2531402.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2 - (B set, safer)[/url][/list]
+
+[size=18][b][color=orange]Mid-Ohio[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2532705.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]Montreal - Circuit Gilles-Villeneuve[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2538211.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=31&lic=0153db&colors=000000,FC70B5,000000[/img] [b]Joshua Stuart[/b] - 2019 S3 - Quali[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2538212.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=31&lic=0153db&colors=000000,FC70B5,000000[/img] [b]Joshua Stuart[/b] - 2019 S3 - Race[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2537748.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S3[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2537654.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=62&lic=0153db&colors=ED2129,FFFFFF,2A3795[/img] [b]Douglas Ritter[/b] - 2019 S3[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2537287.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S3[/url][/list]
+
+[size=18][b][color=orange]Monza - Autodromo Nazionale Monza[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2545117.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=5&lic=00c702&colors=ED2129,cccccc,666666[/img] [b]Alessandro Longoni[/b] - 2019 S4[/url][/list]
+
+[size=18][b][color=orange]Nürburgring GP[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533658.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=FFFFFF,BB1034,000000[/img] [b]Gregory Olson[/b] - 2019 S2 - Quali[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533679.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=FFFFFF,BB1034,000000[/img] [b]Gregory Olson[/b] - 2019 S2 - Race[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533228.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=19&lic=0153db&colors=111111,fc0706,FFD93D[/img] [b]Matteo Coppola Neri[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2533111.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523134.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=61&lic=0153db&colors=0C0D0D,DC0909,9FE81F[/img] [b]Micael Naser[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523167.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=14&lic=0153db&colors=F9ED0B,F9ED0B,F9ED0B[/img] [b]Nuno Moreira[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2522843.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=67&lic=00c702&colors=FF9505,FFFF52,000000[/img] [b]Massimo Berta[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Phillip Island[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2532254.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]Road America[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2534633.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]Road Atlanta[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2542678.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=5&lic=00c702&colors=ED2129,cccccc,666666[/img] [b]Alessandro Longoni[/b] - 2019 S3[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2525390.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Sebring[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2546762.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=11&lic=0153db&colors=F745E5,E4F50A,1D29F7[/img] [b]Suellio Almeida[/b] - 2019 S4[/url][/list]
+
+[size=18][b][color=orange]Silverstone[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2540577.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=10&lic=0153db&colors=ED2129,FFFFFF,FFFFFF[/img] [b]Christian Olsson[/b] - 2019 S3[/url][/list]
+
+[size=18][b][color=orange]Silverstone - 2011[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2534218.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]Spa-Francorchamps[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2536086.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=19&lic=0153db&colors=111111,fc0706,FFD93D[/img] [b]Matteo Coppola Neri[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2535651.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2528805.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1 - (C wing, safer)[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2528804.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1 - (D wing, faster)[/url][/list]
+
+[size=18][b][color=orange]Suzuka[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2531820.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2524040.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2523642.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Watkins Glen[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2530156.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=22&lic=00c702&colors=FFFFFF,1A5B1A,ED2129[/img] [b]Jose R Jimenez[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2530565.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=12&lic=0153db&colors=FFFFFF,014199,FF0000[/img] [b]Daniele Guttuso[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2530284.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list]
+
+[size=18][b][color=orange]VIR - Virginia International Raceway[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2527279.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Zandvoort[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2524478.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=60&lic=0153db&colors=25ff2a,01a604,020c63[/img] [b]Jussi Nieminen[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2524492.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=61&lic=0153db&colors=0C0D0D,DC0909,9FE81F[/img] [b]Micael Naser[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2524205.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S1[/url][/list]
+
+[size=18][b][color=orange]Zolder[/color][/b][/size]
+[list][url=https://members.iracing.com/jforum/posts/downloadAttach/2535136.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=13&lic=0153db&colors=FFFF00,000088,000000[/img] [b]Fabio Berchtold[/b] - 2019 S2[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2522127.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=67&lic=00c702&colors=FF9505,FFFF52,000000[/img] [b]Massimo Berta[/b] - 2019 S1[/url][/list][list][url=https://members.iracing.com/jforum/posts/downloadAttach/2522354.page][img]http://127.0.0.1:32034/helmet.png?size=5&pat=28&lic=0153db&colors=FFFFFF,000000,FFFFFF[/img] [b]Christian Steele[/b] - 2019 S1[/url][/list]
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]

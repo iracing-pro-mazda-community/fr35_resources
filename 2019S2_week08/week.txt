@@ -1,0 +1,151 @@
+[img]http://www.shunurecords.com/iracing/infographics/fr35-2019s2/week8.jpg[/img]
+[size=9](Infographics by [url=http://members.iracing.com/membersite/member/CareerStats.do?custid=312361][color=darkblue]Matteo Coppola Neri[/color][/url])[/size]
+
+[size=16][b][color=darkblue]Welcome to the iRacing Formula Renault 3.5 Championship series![/color][/b][/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/weekly_details_text.png[/img]
+
+[size=16][color=darkred][b]Track:[/b][/color] Autodromo Internazionale Enzo e Dino Ferrari
+[color=darkblue][b]Layout:[/b][/color] Grand Prix
+[color=darkred][b]Week:[/b][/color] 08
+[color=darkblue][b]Date:[/b][/color] 30th of April through 6th of May
+[color=darkred][b]Broadcast:[/b][/color] ...
+[color=darkblue][b]License:[/b][/color] Class C (4.0) --> Pro/WC (4.0)
+[color=darkred][b]Race:[/b][/color] Races every 2 hours on the hour
+[color=darkblue][b]Laps:[/b][/color] 24
+[color=darkred][b]Weather:[/b][/color] Dynamic - Early Morning
+[color=darkblue][b]Starts:[/b][/color] Standing
+[color=darkred][b]Downforce package:[/b][/color] High
+[color=darkblue][b]Fuel usage:[/b][/color] ~2.3 liters / 0.6 gallons per lap
+[color=darkred][b]Race fuel:[/b][/color] ~57.5 liters / 15 gallons (please test and adjust to match your driving style!)
+[color=darkblue][b]Qualifying:[/b][/color] Single Qualifying Session attached to the race (2 laps / 8 minutes)
+[color=darkred][b]Pit stop required:[/b][/color] No[/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/track_info_text.png[/img]
+
+[url]http://www.autodromoimola.it[/url]
+[url=https://goo.gl/maps/aktqcGg7XZf9B7Af8]🗺️ https://goo.gl/maps/aktqcGg7XZf9B7Af8[/url]
+[url=http://www.autodromoimola.it/?lang=en][img]http://www.autodromoimola.it/wp-content/uploads/images/Mappa_Tracciato_Auto.png[/img][/url]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/track_guide_text.png[/img]
+
+[url=https://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari][img]https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Imola_2009.svg/1024px-Imola_2009.svg.png[/img][/url]
+
+No track guide yet...
+
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/hotlap_text.png[/img]
+
+No hotlap video yet...
+
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/statistics_text.png[/img]
+
+[url=http://irleagues.com/fr35/standings][img]http://irleagues.com/fr35/img/2019s2/08/weekstats.png[/img][/url]
+[img]http://irleagues.com/fr35/img/2019s2/champ30.png[/img][size=9]
+(Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/heatmap_text.png[/img]
+
+[img]http://www.shunurecords.com/iracing/participation/index.php?series=fr35-2019s2&week=8[/img]
+[img]http://www.shunurecords.com/iracing/participation/index.php?series=fr35-2019s2&week=all&maxrange=3000[/img]
+[size=9]Powered by [url=http://www.shunurecords.com/iracing/][color=darkblue]Shunu Records[/color][/url] - [url=http://members.iracing.com/membersite/member/CareerStats.do?custid=312361][color=darkblue]Matteo Coppola Neri[/color][/url][/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/laptimes_text.png[/img]
+(rough estimates @ 21°C track temp, track date & time @ 2019-05-04 06:00)
+
+[list][size=14][b]99.0%: [color=lightblue]1:25.396 (finnish)[/color][/b][/size][/list]
+[list][size=14][b]99.5%: [color=green]1:25.827 (alien)[/color][/b][/size][/list]
+[list][size=14][b]100%: [color=olive]1:26.258 (very fast)[/color][/b][/size][/list]
+[list][size=14][b]101%: [color=darkblue]1:27.121 (fast)[/color][/b][/size][/list]
+[list][size=14][b]102%: [color=blue]1:27.983 (good)[/color][/b][/size][/list]
+[list][size=14][b]103%: [color=yellow]1:28.846 (decent)[/color][/b][/size][/list]
+[list][size=14][b]104%: [color=orange]1:29.709 (decent)[/color][/b][/size][/list]
+[list][size=14][b]105%: [color=brown]1:30.571 (all right)[/color][/b][/size][/list]
+[list][size=14][b]106%: [color=darkred]1:31.434 (all right)[/color][/b][/size][/list]
+[list][size=14][b]107%: [color=darkred]1:32.296 (all right)[/color][/b][/size][/list]
+[list][size=14][b]108%: [color=red]1:33.159 (more practice advised)[/color][/b][/size][/list]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/setup_text.png[/img]
+
+[list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3625658.page]Community Baseline Setups[/url][/b][/size]
+Good baseline setups by the community![/list]
+[list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647326.page]Matteo's very driveable HDF baseline[/url][/b][/size]
+A good baseline setup and lots of useful information for adjusting it to your liking!  :thumbup: 
+You can use this as your starting point..[/list]
+[list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647473.page#11531064]Fabio's baseline setup package[/url][/b][/size]
+A set of baseline setups with different downforce configurations suitable for various tracks.[/list]
+[list][size=14][b][url=https://www.youtube.com/playlist?list=PL6dbiPG_ZJAoRDGEC4g-Ah3Yyz4D0Uuw6]Basic Chassis Set Up - Videos[/url][/b][/size]
+Camber, Castor, Toe, Springs, Shocks, ARB, Ride Height and Rake explained..[/list]
+[list][size=14][b][url=https://members.iracing.com/jforum/posts/list/3625868.page]Clutch Plates, Diff Preload, Ramp Angles?[/url][/b][/size]
+Differential locking explained, one of the most important settings to get the car feel right for you!
+[b][url=https://members.iracing.com/jforum/posts/list/3627340.page]Differential Ramp Angles - In-depth technical details[/url][/b][/list]
+[list][size=14][b][url=https://members.iracing.com/jforum/posts/downloadAttach/2460615.page]Setup Cheat Sheet[/url]
+[url=http://members.iracing.com/jforum/posts/downloadAttach/2523858.page]Over/Understeer Cheat Sheet[/url][/b][/size][/list]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[url=https://virtualracingschool.com][img]https://virtualracingschool.com/downloads/vrs-iracing-forum.png[/img][/url]
+[size=18][b][color=darkred]Virtual Racing School[/color] - [color=orange]Formula Renault 3.5[/color][/b][/size]
+
+[size=14][color=darkblue]Virtual Racing School (VRS) offers a Premium Datapack to paid subscribers:[/color][/size]
+[size=16][b][url=https://virtualracingschool.appspot.com/#/DataPacks/248830001]iRacing Formula 3.5 Championship (2019 Season 2)[/url][/b][/size]
+[size=14][color=darkblue]Contains setup, blap/olap, replay and telemetry done by [b]Martin Krönke[/b],
+In-depth video tutorials by [b]Julian Dunne[/b].[/color][/size]
+
+[size=14][b][color=darkred]Week 08 - Autodromo Internazionale Enzo e Dino Ferrari (Grand Prix):[/color][/b]
+ - Fastest Laptime: [b]1:25.827[/b]
+ - Morning - 21.67°C track temp
+ - Track state - moderately low usage
+ - All files and videos can be found [url=https://virtualracingschool.appspot.com/#/DataPacks/248830001/1555431417][b]here[/b][/url].[/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[url=https://puredrivingschool.com][img]http://www.jamesclonk.ch/files/iracing/pds_banner.png[/img][/url]
+[size=18][b][color=darkblue]Pure Driving School[/color] - [color=orange]Formula Renault 3.5[/color][/b][/size]
+
+[size=14][color=darkblue]Setups, Videos, Lapfiles and Telemetry of the Formula Renault 3.5 and many other cars available on: [url=https://puredrivingschool.com/membersite/formula-renault-3-5]http://www.puredrivingschool.com[/url][/color][/size]
+New members can use this service for free with a 30 days Free Trial!
+
+[size=14]Hotlap videos by [b][color=darkblue]Maximilian Benecke[/color][/b] can be found [url=http://members.iracing.com/jforum/posts/list/3628052.page][b]here[/b][/url].[/size]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/links_text.png[/img]
+
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625453.page]How does DRS work in this car?[/url][/b][/size]
+This car has DRS, you can use it during races and qualifying[/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3625576.page]Use Launch Control during race starts[/url][/b][/size]
+It greatly helps to keep the car under control!
+Can be found under [b]Controls -> In-Car Systems -> Traction Control Arm[/b]
+[img]http://www.jamesclonk.ch/files/iracing/tca.jpg[/img][/list]
+[list][size=14][b][url=http://members.iracing.com/jforum/posts/list/3627694.page#11355257]Launch Control Explained[/url][/b][/size]
+Great video turorial[/list]
+[list][b]Mysteriously losing pace during a race?[/b]
+Be careful when driving over curbs, this car is very sensitive to underbody & sidepod damage!
+Scraping the sidepod on a curb can damage it and cost you easily multiple seconds per lap..[/list]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
+
+[img]http://www.jamesclonk.ch/files/iracing/schedule_text.png[/img]
+
+See infographics at the top for the 2019 season 2 schedule.
+Full schedule also available as a PDF: [b][url=http://members.iracing.com/membersite/member/GetSeasonSchedulePDF]iRacing Schedule[/url][/b]
+
+[img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
