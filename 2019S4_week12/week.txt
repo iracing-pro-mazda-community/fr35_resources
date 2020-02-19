@@ -7,7 +7,7 @@
 
 [img]http://www.jamesclonk.ch/files/iracing/weekly_details_text.png[/img]
 
-[size=16][color=darkred][b]Track:[/b][/color] Road America 
+[size=16][color=darkred][b]Track:[/b][/color] Road America
 [color=darkblue][b]Layout:[/b][/color] Full Course
 [color=darkred][b]Week:[/b][/color] 12
 [color=darkblue][b]Date:[/b][/color] 26th of November through 2nd of December
@@ -55,10 +55,10 @@ No hotlap video yet...
 [img]http://irleagues.com/fr35/img/2019s4/champ30.png[/img]
 [size=9](Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
 
-[img]http://irvisualizer.scapp.io/season/2575/week/12/top/scores.png?colorScheme=yellow&topN=20[/img]
-[img]http://irvisualizer.scapp.io/season/2575/week/12/top/racers.png?colorScheme=yellow&topN=20&headerless=true[/img]
-[img]http://irvisualizer.scapp.io/season/2575/week/12/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
-[img]http://irvisualizer.scapp.io/season/2575/week/12/top/laps.png?colorScheme=yellow&topN=20&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/12/top/scores.png?colorScheme=yellow&topN=20[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/12/top/racers.png?colorScheme=yellow&topN=20&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/12/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/12/top/laps.png?colorScheme=yellow&topN=20&headerless=true[/img]
 
 [img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
 

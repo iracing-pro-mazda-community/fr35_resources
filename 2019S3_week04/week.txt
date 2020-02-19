@@ -7,7 +7,7 @@
 
 [img]http://www.jamesclonk.ch/files/iracing/weekly_details_text.png[/img]
 
-[size=16][color=darkred][b]Track:[/b][/color] Autodromo Internazionale Enzo e Dino Ferrari 
+[size=16][color=darkred][b]Track:[/b][/color] Autodromo Internazionale Enzo e Dino Ferrari
 [color=darkblue][b]Layout:[/b][/color] Grand Prix
 [color=darkred][b]Week:[/b][/color] 04
 [color=darkblue][b]Date:[/b][/color] 2nd of July through 8th of July
@@ -18,7 +18,7 @@
 [color=darkred][b]Weather:[/b][/color] Dynamic - Afternoon
 [color=darkblue][b]Starts:[/b][/color] Standing
 [color=darkred][b]Downforce package:[/b][/color] High
-[color=darkblue][b]Fuel usage:[/b][/color] ~2.3 liters / 0.6 gallons per lap 
+[color=darkblue][b]Fuel usage:[/b][/color] ~2.3 liters / 0.6 gallons per lap
 [color=darkred][b]Race fuel:[/b][/color] ~57.5 liters / 15 gallons (please test and adjust to match your driving style!)
 [color=darkblue][b]Qualifying:[/b][/color] Single Qualifying Session attached to the race (2 laps / 8 minutes)
 [color=darkred][b]Pit stop required:[/b][/color] No[/size]
@@ -55,8 +55,8 @@
 [img]http://irleagues.com/fr35/img/2019s3/champ30.png[/img]
 [size=9](Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
 
-[img]http://irvisualizer.scapp.io/season/2484/week/4/top/racers.png?colorScheme=yellow&topN=10[/img]
-[img]http://irvisualizer.scapp.io/season/2484/week/4/top/safety.png?colorScheme=yellow&topN=10&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2484/week/4/top/racers.png?colorScheme=yellow&topN=10[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2484/week/4/top/safety.png?colorScheme=yellow&topN=10&headerless=true[/img]
 
 [img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
 
@@ -101,7 +101,7 @@ A large collection of setups for various tracks.[/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3625658.page]Community Baseline Setups[/url][/b][/size]
 Good baseline setups by the community![/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647326.page]Matteo's very driveable HDF baseline[/url][/b][/size]
-A good baseline setup and lots of useful information for adjusting it to your liking! :thumbup: 
+A good baseline setup and lots of useful information for adjusting it to your liking! :thumbup:
 You can use this as your starting point..[/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647473.page#11531064]Fabio's baseline setup package[/url][/b][/size]
 A set of baseline setups with different downforce configurations suitable for various tracks.[/list]

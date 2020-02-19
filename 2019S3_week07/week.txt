@@ -54,8 +54,8 @@ No hotlap video yet...
 [img]http://irleagues.com/fr35/img/2019s3/champ30.png[/img]
 [size=9](Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
 
-[img]http://irvisualizer.scapp.io/season/2484/week/7/top/racers.png?colorScheme=yellow&topN=15[/img]
-[img]http://irvisualizer.scapp.io/season/2484/week/7/top/safety.png?colorScheme=yellow&topN=15&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2484/week/7/top/racers.png?colorScheme=yellow&topN=15[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2484/week/7/top/safety.png?colorScheme=yellow&topN=15&headerless=true[/img]
 
 [img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
 
@@ -100,7 +100,7 @@ A large collection of setups for various tracks.[/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3625658.page]Community Baseline Setups[/url][/b][/size]
 Good baseline setups by the community![/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647326.page]Matteo's very driveable HDF baseline[/url][/b][/size]
-A good baseline setup and lots of useful information for adjusting it to your liking! :thumbup: 
+A good baseline setup and lots of useful information for adjusting it to your liking! :thumbup:
 You can use this as your starting point..[/list]
 [list][size=15][b][url=https://members.iracing.com/jforum/posts/list/3647473.page#11531064]Fabio's baseline setup package[/url][/b][/size]
 A set of baseline setups with different downforce configurations suitable for various tracks.[/list]

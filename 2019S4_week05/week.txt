@@ -56,8 +56,8 @@
 [img]http://irleagues.com/fr35/img/2019s4/champ30.png[/img]
 [size=9](Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
 
-[img]http://irvisualizer.scapp.io/season/2575/week/5/top/racers.png?colorScheme=yellow&topN=20[/img]
-[img]http://irvisualizer.scapp.io/season/2575/week/5/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/5/top/racers.png?colorScheme=yellow&topN=20[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/5/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
 
 [img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
 

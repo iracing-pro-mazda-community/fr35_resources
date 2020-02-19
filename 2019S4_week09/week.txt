@@ -18,7 +18,7 @@
 [color=darkred][b]Weather:[/b][/color] Dynamic - Morning
 [color=darkblue][b]Starts:[/b][/color] Standing
 [color=darkred][b]Downforce package:[/b][/color] High
-[color=darkblue][b]Fuel usage:[/b][/color] ~1.9 liters / 0.5 gallons per lap 
+[color=darkblue][b]Fuel usage:[/b][/color] ~1.9 liters / 0.5 gallons per lap
 [color=darkred][b]Race fuel:[/b][/color] ~57.5 liters / 15 gallons (please test and adjust to match your driving style!)
 [color=darkblue][b]Qualifying:[/b][/color] Single Qualifying Session attached to the race (2 laps / 8 minutes)
 [color=darkred][b]Pit stop required:[/b][/color] No[/size]
@@ -54,8 +54,8 @@
 [img]http://irleagues.com/fr35/img/2019s4/champ30.png[/img]
 [size=9](Stats by Philippe Leybaert) - [url=http://irleagues.com/fr35/standings]irleagues.com[/url][/size]
 
-[img]http://irvisualizer.scapp.io/season/2575/week/9/top/racers.png?colorScheme=yellow&topN=20[/img]
-[img]http://irvisualizer.scapp.io/season/2575/week/9/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/9/top/racers.png?colorScheme=yellow&topN=20[/img]
+[img]http://irvisualizer.jamesclonk.io/season/2575/week/9/top/safety.png?colorScheme=yellow&topN=20&headerless=true[/img]
 
 [img]http://www.jamesclonk.ch/files/iracing/line.png[/img]
 
